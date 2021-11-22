@@ -1,4 +1,4 @@
-﻿Não alterei meus dados cadastrais
+﻿alterei meus dados cadastrais
 =================================
 
 As informações utilizadas para realizar o cadastro pertencem ao cidadão.
